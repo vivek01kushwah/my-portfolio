@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
-const repoName = 'vivek';
+const repoName = 'my-portfolio';
+
 const nextConfig = {
   basePath: `/${repoName}`,
   assetPrefix: `/${repoName}/`,
@@ -17,9 +18,6 @@ const nextConfig = {
       { protocol: 'https', hostname: 'avatars.githubusercontent.com' },
       { protocol: 'https', hostname: 'images.unsplash.com' }
     ]
-  },
-  experimental: {
-    typedRoutes: false
   }
 };
 
