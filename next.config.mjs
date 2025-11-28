@@ -1,14 +1,9 @@
 /** @type {import('next').NextConfig} */
-const repoName = 'my-portfolio'; // your correct repo name
-
 const nextConfig = {
   output: 'export',
-
-  basePath: `/${repoName}`,
-  assetPrefix: `/${repoName}/`,
-
+  basePath: '/my-portfolio',
+  assetPrefix: '/my-portfolio/',
   trailingSlash: true,
-
   images: {
     unoptimized: true,
   },
