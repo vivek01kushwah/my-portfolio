@@ -153,7 +153,7 @@ export function Projects() {
           className="text-center mt-12"
         >
           <Link
-            href="https://github.com/subhadippatraa"
+            href="https://github.com/vivek01kushwah"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-blue-600 to-teal-600 text-white rounded-full font-semibold hover:shadow-lg transform hover:scale-105 transition-all duration-200"
