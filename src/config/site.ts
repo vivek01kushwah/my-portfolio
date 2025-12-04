@@ -8,7 +8,7 @@ export const SITE = {
   primaryColor: '#2563EB',
   email: 'vivek0709kushwah@gmail.com',
   avatar: '/profile.jpg',
-  resume: '/Vivek_Kushwah_Resume.pdf',
+  resume: '/my-portfolio/Vivek_Kushwah_Resume.pdf',
   social: {
     github: 'https://github.com/vivek01kushwah',
     linkedin: 'https://www.linkedin.com/in/vivek-kushwah-00029a282',
